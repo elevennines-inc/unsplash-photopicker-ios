@@ -1,0 +1,8 @@
+"search.placeholder" = "写真を探す";
+
+"error.noResults.title" = "該当する結果はありません";
+"error.noResults.description" = "検索条件を更新して、もう一度お試しください";
+"error.noInternetConnection.title" = "インターネットに接続できません";
+"error.noInternetConnection.description" = "Wi-Fiまたはモバイルデータ通信に接続する必要があります";
+"error.serverError.title" = "サーバーエラー";
+"error.serverError.description" = "もう一度お試しください";
